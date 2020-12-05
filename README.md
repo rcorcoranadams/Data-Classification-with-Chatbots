@@ -1,6 +1,6 @@
-# Lab 2 - Data Classification & Chatbots
-Name: Rachel Corcoran-Adams
-Date created: September 11, 2020
+# Data Classification & Chatbots
+# Rachel Corcoran-Adams
+# September 11, 2020
 Python Version: 2.7.5
 
 Script 1 introduces classifying data using the function called "FeelTemp". This function converts a given temperature in Fahrenheit and classifies it based on four different categorical temperature feelings: hot, warm, cool, and cold. Using a decision tree, I created conditional statements involving values to separate each temperature block into the four categories. 
